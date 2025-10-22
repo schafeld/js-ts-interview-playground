@@ -21,7 +21,7 @@ function capitalizeWords(str) {
     .join(' ');
 }
 
-module.exports = {
+export {
   filterEvenNumbers,
   capitalizeWords
 };
