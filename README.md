@@ -145,3 +145,7 @@ node src/example.js
 
 ISC
 
+
+## Sources for code challenges
+
+[Scrimba](https://scrimba.com/frontend-interview-tips-c01u)
